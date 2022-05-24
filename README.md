@@ -1,7 +1,8 @@
 ```javascript
 const MatheusF = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React, Node, AdonisJs, JavaEE],
+  favoriteCodeEditor: 'Atom',
   architecture: ["MVC"]
 }
 ```
