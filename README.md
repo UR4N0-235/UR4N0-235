@@ -85,11 +85,12 @@ Here is the time that I had spent working in some projects, using [Android Studi
 
 <br/>
 
-<details>
-<summary>Click here if you want contact me</summary>
+
 <div style="font-family: Verdana; display: flex; justify-content:space-between; align-items: center; flex-direction: column">
-    <h2 align="center">Thanks for trying to contact me, use anything that you want</h2>
+    <h2 align="center">Contact</h2>
+    <p>I'm very grateful for you to seeing that, if you want to contact me and talk about anything or just play something like codingame or tryhack me, there is the links :) </p>
     <div align="center">
+    <br>
         <a href="https://www.instagram.com/92.88.7.8/" target="_blank">
             <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
         </a>
@@ -113,10 +114,10 @@ Here is the time that I had spent working in some projects, using [Android Studi
         <a href="https://tryhackme.com/p/UR4N0" target="_blank">
             <img src="https://img.shields.io/badge/-TryHackMe-%230077B5?style=for-the-badge&logo=tryhackme&logoColor=white" target="_blank">
         </a>
+    <br>
     </div>
     <p align="justify">On Twitter or Instagram, is nothing professional, please don't use anything on this medias as metric for any recruiter test</p>
 </div>
-</details>
 
 <br/>
 
