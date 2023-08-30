@@ -32,13 +32,10 @@
 
 ---
 
-<p style="font-size:20px; text-align:center; margin: 0px 30px">This part is dynamic, just other repositories being called to make something</p>
-
 <br/>
 <br/>
 
-<details>
-<summary>Some programming stats</summary>
+# Some programming stats
 
 <br/>
 
@@ -52,28 +49,7 @@ Here is the time that I had spent working in some projects, using [Android Studi
 
 <br/>
 
-## And here, some of the languages that I can program
-
-<br/>
-
-<div style="display:flex; flex-direction: column; align-items:center">
-
->**Warning**
->This considers all project files, including automatically generated files, do not use the above data as a metric or experience level!
-
-<br/>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UR4N0-235&langs_count=10&layout=compact&theme=dark" />
-</div>
-</div>
-
-</details>
-
-<br/>
-
-<details>
-<summary>What I listen on Spotify</summary>
+## What I listen on Spotify
 
 <br/>
 
@@ -81,7 +57,6 @@ Here is the time that I had spent working in some projects, using [Android Studi
 <img algin="center" src="https://spotify-recently-played-readme.vercel.app/api?user=n9inrvfq1easw4ij0tjmkrksv&count=6"/>
 </div>
 
-</details>
 
 <br/>
 
